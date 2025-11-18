@@ -1,0 +1,1234 @@
+{
+    "Outputs": [
+        {
+            "Line_number": 0,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 1,
+            "Factual_consistency": 7,
+            "Coherence": 8,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 2,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 3,
+            "Factual_consistency": 9,
+            "Coherence": 9,
+            "Similarity": 8
+        },
+        {
+            "Line_number": 4,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 5,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 6,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 7,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 8,
+            "Factual_consistency": 9,
+            "Coherence": 9,
+            "Similarity": 8
+        },
+        {
+            "Line_number": 9,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 10,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 11,
+            "Factual_consistency": 9,
+            "Coherence": 9,
+            "Similarity": 8
+        },
+        {
+            "Line_number": 12,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 13,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 14,
+            "Factual_consistency": 9,
+            "Coherence": 9,
+            "Similarity": 8
+        },
+        {
+            "Line_number": 15,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 16,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 17,
+            "Factual_consistency": 6,
+            "Coherence": 6,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 18,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 19,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 20,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 8
+        },
+        {
+            "Line_number": 21,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 22,
+            "Factual_consistency": 9,
+            "Coherence": 9,
+            "Similarity": 9
+        },
+        {
+            "Line_number": 23,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 24,
+            "Factual_consistency": 6,
+            "Coherence": 6,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 25,
+            "Factual_consistency": 6,
+            "Coherence": 6,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 26,
+            "Factual_consistency": 6,
+            "Coherence": 6,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 27,
+            "Factual_consistency": 6,
+            "Coherence": 6,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 28,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 29,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 30,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 31,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 32,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 33,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 34,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 35,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 36,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 37,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 38,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 39,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 40,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 41,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 42,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 43,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 44,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 45,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 46,
+            "Factual_consistency": 7,
+            "Coherence": 7,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 47,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 48,
+            "Factual_consistency": 10,
+            "Coherence": 10,
+            "Similarity": 10
+        },
+        {
+            "Line_number": 49,
+            "Factual_consistency": 3,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 50,
+            "Factual_consistency": 4,
+            "Coherence": 4,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 51,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 52,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 53,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 54,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 55,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 56,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 57,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 58,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 4
+        },
+        {
+            "Line_number": 59,
+            "Factual_consistency": 3,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 60,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 61,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 62,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 63,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 64,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 65,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 66,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 67,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 68,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 69,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 70,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 71,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 72,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 73,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 74,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 75,
+            "Factual_consistency": 5,
+            "Coherence": 6,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 76,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 77,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 78,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 79,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 80,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 81,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 82,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 83,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 84,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 85,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 86,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 87,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 88,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 89,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 90,
+            "Factual_consistency": 1,
+            "Coherence": 6,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 91,
+            "Factual_consistency": 2,
+            "Coherence": 6,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 92,
+            "Factual_consistency": 1,
+            "Coherence": 3,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 93,
+            "Factual_consistency": 1,
+            "Coherence": 3,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 94,
+            "Factual_consistency": 1,
+            "Coherence": 4,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 95,
+            "Factual_consistency": 1,
+            "Coherence": 3,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 96,
+            "Factual_consistency": 1,
+            "Coherence": 3,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 97,
+            "Factual_consistency": 1,
+            "Coherence": 4,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 98,
+            "Factual_consistency": 1,
+            "Coherence": 3,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 99,
+            "Factual_consistency": 1,
+            "Coherence": 3,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 100,
+            "Factual_consistency": 2,
+            "Coherence": 7,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 101,
+            "Factual_consistency": 1,
+            "Coherence": 6,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 102,
+            "Factual_consistency": 1,
+            "Coherence": 6,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 103,
+            "Factual_consistency": 1,
+            "Coherence": 6,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 104,
+            "Factual_consistency": 1,
+            "Coherence": 6,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 105,
+            "Factual_consistency": 5,
+            "Coherence": 6,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 106,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 107,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 108,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 109,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 110,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 111,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 112,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 113,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 114,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 115,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 116,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 117,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 118,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 119,
+            "Factual_consistency": 5,
+            "Coherence": 5,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 120,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 121,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 122,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 123,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 124,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 125,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 126,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 127,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 128,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 129,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 130,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 131,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 132,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 133,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 134,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 135,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 136,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 137,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 138,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 139,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 140,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 8
+        },
+        {
+            "Line_number": 141,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 142,
+            "Factual_consistency": 8,
+            "Coherence": 8,
+            "Similarity": 8
+        },
+        {
+            "Line_number": 143,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 144,
+            "Factual_consistency": 6,
+            "Coherence": 6,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 145,
+            "Factual_consistency": 6,
+            "Coherence": 6,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 146,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 147,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 148,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 149,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 150,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 151,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 152,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 153,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 154,
+            "Factual_consistency": 10,
+            "Coherence": 10,
+            "Similarity": 10
+        },
+        {
+            "Line_number": 155,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 156,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 157,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 158,
+            "Factual_consistency": 10,
+            "Coherence": 10,
+            "Similarity": 10
+        },
+        {
+            "Line_number": 159,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 160,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 161,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 162,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 163,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 164,
+            "Factual_consistency": 2,
+            "Coherence": 3,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 165,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 166,
+            "Factual_consistency": 2,
+            "Coherence": 2,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 167,
+            "Factual_consistency": 2,
+            "Coherence": 2,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 168,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 169,
+            "Factual_consistency": 3,
+            "Coherence": 3,
+            "Similarity": 3
+        },
+        {
+            "Line_number": 170,
+            "Factual_consistency": 2,
+            "Coherence": 2,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 171,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 172,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 173,
+            "Factual_consistency": 2,
+            "Coherence": 2,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 174,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 175,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 176,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 177,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 178,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 179,
+            "Factual_consistency": 2,
+            "Coherence": 2,
+            "Similarity": 2
+        },
+        {
+            "Line_number": 180,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 181,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 182,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 183,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 184,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 185,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 186,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 187,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 188,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 189,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 190,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 191,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 192,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 193,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 194,
+            "Factual_consistency": 1,
+            "Coherence": 1,
+            "Similarity": 1
+        },
+        {
+            "Line_number": 195,
+            "Factual_consistency": 9,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 196,
+            "Factual_consistency": 7,
+            "Coherence": 8,
+            "Similarity": 5
+        },
+        {
+            "Line_number": 197,
+            "Factual_consistency": 9,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 198,
+            "Factual_consistency": 10,
+            "Coherence": 9,
+            "Similarity": 9
+        },
+        {
+            "Line_number": 199,
+            "Factual_consistency": 8,
+            "Coherence": 7,
+            "Similarity": 6
+        },
+        {
+            "Line_number": 200,
+            "Factual_consistency": 9,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 201,
+            "Factual_consistency": 10,
+            "Coherence": 9,
+            "Similarity": 9
+        },
+        {
+            "Line_number": 202,
+            "Factual_consistency": 9,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 203,
+            "Factual_consistency": 9,
+            "Coherence": 8,
+            "Similarity": 7
+        },
+        {
+            "Line_number": 204,
+            "Factual_consistency": 9,
+            "Coherence": 8,
+            "Similarity": 7
+        }
+    ]
+}
